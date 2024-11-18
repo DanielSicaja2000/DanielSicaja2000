@@ -59,14 +59,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
@@ -89,4 +87,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSicaja2000&theme=dark&hide_border=true"/>
 </p>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-sicajá/"><img src="https://img.shields.io/badge/daniel-sicajá?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:danielsicaja08@gmail.com"><img src="https://img.shields.io/badge/danielsicaja08?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
