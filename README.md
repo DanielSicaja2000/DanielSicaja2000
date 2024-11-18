@@ -91,7 +91,18 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-sicajá/"><img src="https://img.shields.io/badge/daniel-sicajá?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:danielsicaja08@gmail.com"><img src="https://img.shields.io/badge/danielsicaja08?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mipagina" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:danielsicaja08@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-sicajá" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/mipagina" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
 
