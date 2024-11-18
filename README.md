@@ -75,16 +75,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="https://github.com/DanielSicaja2000">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanielSicaja2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/miproyecto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miproyecto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/DanielSicaja2000">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielSicaja2000&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/miproyecto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miproyecto&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSicaja2000&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=miproyecto&theme=dark&hide_border=true"/>
 </p>
 
 
@@ -104,5 +104,3 @@
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
-
