@@ -1,5 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">ddd</a> 👋</h1>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
