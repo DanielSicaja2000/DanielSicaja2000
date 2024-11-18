@@ -1,4 +1,4 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://">Daniel Sicaja</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://">Hi there! I'm Daniel Sicaja</a> 👋</h1>
 </div>
-<img src="https://mega.nz/file/uEVT0QrI#IgoLm5yOEdj9UkOJN1SykNLLdmzRIfvOEQsyMcSkVZQ">
+<img src="https://imgur.com/a/Yyff7XE">
