@@ -4,6 +4,10 @@
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
+![GitHub](https://img.shields.io/badge/GitHub-Account1-blue?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Account2-lightgrey?style=for-the-badge&logo=github&logoColor=black)
+
+
 
 
 ### 👨‍💻 About me.
