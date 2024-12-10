@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hola, soy <a href="https://portafoliodsicajadev.netlify.app/">Daniel Sicaja</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://portafoliodsicajadev.netlify.app/">Daniel Sicajá</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
