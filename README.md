@@ -4,12 +4,11 @@
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
-<a href="https://github.com/DanielSicaja2000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DanielSicaja2000-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Account 1">
-  </a>
-  <a href="https://github.com/DanielSicaja08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DanielSicaja08-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Account 2">
-  </a>
+<div align="center">
+  [![GitHub Account 1](https://img.shields.io/badge/GitHub-DanielSicaja2000-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielSicaja2000)
+  [![GitHub Account 2](https://img.shields.io/badge/GitHub-DanielSicaja08-lightgrey?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DanielSicaja08)
+</div>
+
 
 
 
