@@ -5,10 +5,10 @@
 <img src="https://i.imgur.com/oDGmHBT.png">
 
 <a href="https://github.com/DanielSicaja2000" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Cuenta%201-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Cuenta 1 - Click aqui">
+    <img src="https://img.shields.io/badge/GitHub-Cuenta%201-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Cuenta 1">
 </a>
 <a href="https://github.com/DanielSicaja08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Cuenta%202-yellowgreen?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Cuenta 2 - Click aqui">
+    <img src="https://img.shields.io/badge/GitHub-Cuenta%202-yellowgreen?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Cuenta 2">
 </a>
 
 
