@@ -4,9 +4,12 @@
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
-![GitHub](https://img.shields.io/badge/GitHub-DanielSicaja2000-blue?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-DanielSicaja08-lightgrey?style=for-the-badge&logo=github&logoColor=black)
-
+<a href="https://github.com/DanielSicaja2000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DanielSicaja2000-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Account 1">
+  </a>
+  <a href="https://github.com/DanielSicaja08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DanielSicaja08-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Account 2">
+  </a>
 
 
 
