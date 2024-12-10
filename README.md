@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1 align="center">Hola, soy <a href="#">Daniel Sicaja</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://portafoliodsicajadev.netlify.app/">Daniel Sicaja</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/oDGmHBT.png">
 
-[![YouTube Channel Subscribers](#)](#)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/DanielSicaja2000)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
 
 ### 👨‍💻 About me.
 
@@ -88,7 +86,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mipagina" target="_blank">
+  <a href="https://portafoliodsicajadev.netlify.app/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:danielsicaja08@gmail.com" target="_blank">
@@ -97,7 +95,7 @@
   <a href="https://www.linkedin.com/in/daniel-sicajá" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/mipagina" target="_blank">
+  <a href="https://www.youtube.com/@DSicajaDev" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
